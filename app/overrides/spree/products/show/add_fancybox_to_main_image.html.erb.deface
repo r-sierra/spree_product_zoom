@@ -1,0 +1,4 @@
+<!-- replace_contents "#main-image[data-hook]" -->
+<div class="panel-body text-center">
+  <%= render partial: 'image' %>
+</div>
